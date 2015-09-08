@@ -9,11 +9,10 @@
 <link href="favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
 <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
-<script type="text/javascript" src="script.js"></script>
+<script type="text/javascript" src="../js/script.js"></script>
 <link href="favicon.png" rel="icon" type="image/png">
 <link rel="thumb" href="logo.png">
-<link rel='stylesheet' type='text/css' href='style.css'/>
-<link rel="stylesheet" media="screen and (max-device-width: 800px)" href="styleMobile.css" />
+<link rel='stylesheet' type='text/css' href='../css/custom_style.css'/>
 </head>
 
 <body>
